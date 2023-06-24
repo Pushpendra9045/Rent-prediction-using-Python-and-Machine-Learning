@@ -1,1 +1,1 @@
-# Rent-prediction-using-Python-and-Machine-Learning
+# Home-Rent-Predictor-using-Python-and-Machine-Learning
